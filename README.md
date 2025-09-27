@@ -1,3 +1,9 @@
+# Before you start
+
+- Please work in groups of 2-3.
+- These steps have only been tested on Google Chrome in incognito mode on Windows.
+- You will need to pull from a repo to complete the last two activities. Make sure you have git set up.
+
 # Elements Tab Activity
 
 Briefly look at **ucsd.edu** and try to find a `div` element with class name **blurb**.  
